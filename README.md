@@ -1,14 +1,24 @@
 🎬 Netflix Content Intelligence Dashboard
+
+
 An interactive 3-page business intelligence dashboard analyzing 8,800+ Netflix titles to uncover content strategy patterns, global distribution trends, and audience targeting insights.
+
+
 Tools: Power BI Desktop · DAX · Power Query
 Dataset: Netflix Movie and TV show dataset by Shivam Bansal - Kaggle
 Author: Adarsh Pandey
 
 📊 Dashboard Pages
+
+
 Page 1 — Overview
 High-level snapshot of Netflix's entire catalog with KPI cards, content type distribution, yearly growth trends, and top producing countries.
 Show Image
+
 Visuals:
+
+<img width="1330" height="769" alt="image" src="https://github.com/user-attachments/assets/a3dddd33-d159-4426-b799-767bc3edbadc" />
+
 
 4 KPI Cards — Total Titles (9K), Total Movies (6K), Total TV Shows (3K), Avg Movie Duration (99.59 min)
 Donut Chart — Movies (69.6%) vs TV Shows (30.4%) content split
@@ -19,7 +29,11 @@ Horizontal Bar Chart — Top 10 content-producing countries by number of titles
 Page 2 — Content Deep Dive
 Detailed breakdown of what type of content Netflix produces and how it is distributed across genres, ratings, duration, and time.
 Show Image
+
 Visuals:
+
+<img width="1326" height="763" alt="image" src="https://github.com/user-attachments/assets/612ad596-0c44-4843-83e4-5d5299aa33bc" />
+
 
 Treemap — Top 15 genres with Dramas & International Movies leading at 362 titles, followed by Documentaries (359) and Stand-Up Comedy (334)
 Column Chart — Content ratings distribution showing TV-MA as the dominant rating (~3K titles), confirming Netflix's adult-focused content strategy
@@ -30,7 +44,13 @@ Matrix Heatmap — Monthly content addition patterns across all years showing se
 Page 3 — Director & Global Insights
 Deep dive into the people and geographies behind Netflix's catalog.
 Show Image
+
 Visuals:
+
+<img width="1324" height="766" alt="image" src="https://github.com/user-attachments/assets/f23ce1ca-a4bb-446b-9eeb-8dcadb822d9f" />
+
+
+
 
 Bar Chart — Top 10 Directors by number of titles (Zoya Akhtar leading among filtered results)
 Bar Chart — Top 10 Cast Members by appearances across the catalog
