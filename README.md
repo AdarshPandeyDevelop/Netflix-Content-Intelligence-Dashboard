@@ -79,17 +79,25 @@ Created duration_bin calculated column for histogram bucketing (0–60, 61–90,
 DAX Measures Created
 
 Total Titles — COUNTROWS
+
 Total Movies — CALCULATE with type filter
+
 Total TV Shows — CALCULATE with type filter
+
 Movies % — DIVIDE measure
+
 TV Shows % — DIVIDE measure
+
 Avg Movie Duration — CALCULATE + AVERAGE filtered to movies in minutes
+
 Added in 2021 — CALCULATE with year filter
+
 YoY Growth % — VAR-based year-over-year calculation using DATEADD
 
 
 
 
 📄 Dataset Credit
-Netflix Movies and TV Shows by Shivam Bansal
+Netflix Movies and TV Shows by Shivam Bansal.
+
 Thank you Shivam Bansal Sir for providing such a valuable Dataset.
