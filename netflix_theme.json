@@ -1,0 +1,40 @@
+{
+  "name": "Netflix Theme",
+  "dataColors": [
+    "#E50914",
+    "#B81D24",
+    "#831010",
+    "#F5F5F1",
+    "#564d4d",
+    "#221F1F",
+    "#e87c03",
+    "#f5a623"
+  ],
+  "background": "#221F1F",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#E50914",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#221F1F"
+              }
+            }
+          }
+        ],
+        "fontColor": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
