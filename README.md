@@ -88,13 +88,8 @@ Added in 2021 — CALCULATE with year filter
 YoY Growth % — VAR-based year-over-year calculation using DATEADD
 
 
-▶️ How to Open
-
-Download and install Power BI Desktop (free)
-Clone or download this repository
-Open Netflix_Dashboard.pbix in Power BI Desktop
-If prompted for data source, point it to the data/netflix_titles.csv file
 
 
 📄 Dataset Credit
 Netflix Movies and TV Shows by Shivam Bansal
+Thank you Shivam Bansal Sir for providing such a valuable Dataset.
